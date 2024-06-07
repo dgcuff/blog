@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pre-Interview on Technical Writing Joys and Woes</title>
+    <link>http://localhost:1313/tags/pre-interview/</link>
+    <description>Recent content in Pre-Interview on Technical Writing Joys and Woes</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
+    <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
+    <lastBuildDate>Mon, 08 Aug 2022 12:30:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pre-interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing-sample ethics</title>
+      <link>http://localhost:1313/posts/2022-08-08-writing-samples/</link>
+      <pubDate>Mon, 08 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-08-08-writing-samples/</guid>
+      <description>Technical writers maintain samples of documents that they once created and add those sample documents to their professional portfolios. Even though I do not (repeat: not) have a portfolio for the sole purpose of employment, writing samples can be useful when seeking a new technical writing position.&#xA;Showing samples to prospective employers was always a grey area ethically. What we think of as samples are single copies of work to which we do not own the copyright.</description>
+    </item>
+    <item>
+      <title>Hiring process subtext and oblique signals: what&#39;s in a form?</title>
+      <link>http://localhost:1313/posts/2022-07-25-hiring-process-examples/</link>
+      <pubDate>Mon, 25 Jul 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-07-25-hiring-process-examples/</guid>
+      <description>I&amp;rsquo;m happy with my current employer, but next time it comes to looking for work as a technical writer, I intend to remember that not all companies are created equal. Some companies signal to prospective employees how they can expect to be treated. Unsurprisingly, especially to adherents of Sturgeon&amp;rsquo;s law, more companies will signal that they will not treat you well, but do not despair. There are still companies that signal the significant respect that they have for their employees and prospective employees.</description>
+    </item>
+  </channel>
+</rss>

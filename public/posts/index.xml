@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Technical Writing Joys and Woes</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Technical Writing Joys and Woes</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
+    <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
+    <lastBuildDate>Mon, 20 May 2024 10:25:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meeting another reader</title>
+      <link>http://localhost:1313/posts/2024-05-20-read-be-grateful/</link>
+      <pubDate>Mon, 20 May 2024 10:25:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2024-05-20-read-be-grateful/</guid>
+      <description>Readers are becoming increasingly rare. I &amp;ldquo;met&amp;rdquo; one recently through a second-hand book.&#xA;Years ago now, I bought a 86-page speciality instructional book in the consignment section of a specialty shop. For less than half the price of a new copy.&#xA;I still haven&amp;rsquo;t read it but, today, I set down to make the book ready for me to read. Does that sound pompous? I just mean that I was erasing the pencil marks that the previous reader left in it.</description>
+    </item>
+    <item>
+      <title>Questioning assumption</title>
+      <link>http://localhost:1313/posts/2024-04-21-assumptions-uncovering/</link>
+      <pubDate>Sun, 21 Apr 2024 15:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2024-04-21-assumptions-uncovering/</guid>
+      <description>Assumptions engage our human emotions.&#xA;Some assumptions are embarrassing. CBC Radio &amp;ldquo;Morningside&amp;rdquo; host (the late) Peter Gzowski, long in a job that paid more than a living wage, once made the assumption that retirement tax breaks were available to all&amp;hellip; when they require a minimum income. Some assumptions are infuriating. In the &amp;ldquo;Doonebury&amp;rdquo; comic strip, cartoonist Garry Trudeau once did a masterful job of deflating privlege rather than ranting about it.</description>
+    </item>
+    <item>
+      <title>Release notes for smartphone apps</title>
+      <link>http://localhost:1313/posts/2024-04-07-release-notes-apps/</link>
+      <pubDate>Sun, 07 Apr 2024 10:25:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2024-04-07-release-notes-apps/</guid>
+      <description>Did you know that there was a time when people actually read release notes? Not all people read them, but some regular customers did.&#xA;Since I became an iPhone user, I&amp;rsquo;ve started noticing the release notes for updated versions of iPhone apps. The only major software publisher that consistly explains what&amp;rsquo;s new in a release is&amp;hellip; Apple itself.&#xA;Streamlined in-app notifications inform you when a person joins a collaborative document for the first time Preseve file format and full quality when adding HEIC photos taken on iPhone or iPad On iPad, press and hold the Command key on a connected keyboard to select noncontigous words, sentences, or paragraphs using a trackpad or mouse It&amp;rsquo;s not new that the release notes are an afterthought.</description>
+    </item>
+    <item>
+      <title>Why no blog updates for over a year</title>
+      <link>http://localhost:1313/posts/2024-03-02-absence/</link>
+      <pubDate>Thu, 04 Apr 2024 10:56:15 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2024-03-02-absence/</guid>
+      <description>I haven&amp;rsquo;t been posting. Why? Because I ran into a technical issue that prevented me from connecting to GitHub. Weekend after weekend, I tried to solve it.&#xA;I read post after post that claimed to have the fix. None of them helped. I have decent beginner&amp;rsquo;s technical skills, but I could not find a fix.&#xA;Eventually, I accepted that I was going to have to uninstall (part of) a commercial piece of software.</description>
+    </item>
+    <item>
+      <title>On dropping a stone down a well</title>
+      <link>http://localhost:1313/posts/2023-02-14-children-will-listen/</link>
+      <pubDate>Tue, 14 Feb 2023 07:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2023-02-14-children-will-listen/</guid>
+      <description>The most recent time I was considering and being considered for a new technical writing position, I got a surprise. One of the managers mentioned my recent posting on this blog, Technical writers are not helicopters.&#xA;That was the first indication I had had that anyone ever read any of this blog.&#xA;Even in the smartphone age, writing is still like dropping a stone in a well and waiting to hear the splash.</description>
+    </item>
+    <item>
+      <title>Technical writers are not helicopters</title>
+      <link>http://localhost:1313/posts/2022-12-08-helicopters/</link>
+      <pubDate>Thu, 08 Dec 2022 10:56:14 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-12-08-helicopters/</guid>
+      <description>The majority of developers and their managers have absolutely no idea what technical writers do. Most developers think of us as old-school secretaries (administrative assistants) who correct their typographical errors and handle their typing. If you are a developer who knows better, please educate your peers rather than sending me a note with the message “not all developers.”&#xA;Developers frequently work with time pressure. They have limited time to code and debug a feature.</description>
+    </item>
+    <item>
+      <title>Giving thanks</title>
+      <link>http://localhost:1313/posts/2022-10-09-thanksgiving/</link>
+      <pubDate>Sat, 08 Oct 2022 10:56:14 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-10-09-thanksgiving/</guid>
+      <description>Over the years, I have been blessed by working with terrific people.&#xA;Testers. Managers. Developers. Software architects. Customer support people at various levels. Fellow technical writers. Executives. Subject matter experts.&#xA;Quite a lot of these people could write a lot better than they thought they could. When they wrote, they thought about the user.&#xA;Some of them couldn&amp;rsquo;t write well but they were great at talking about what they wanted to write&amp;hellip; if only I could get enough of their time to interview them.</description>
+    </item>
+    <item>
+      <title>Feeling appreciated</title>
+      <link>http://localhost:1313/posts/2022-09-27-unintended-use/</link>
+      <pubDate>Tue, 27 Sep 2022 07:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-09-27-unintended-use/</guid>
+      <description>While walking through my local park, I ran into a former co-worker from 20 years back. I had been creating documentation; he had been supporting customers. He mentioned to me, 20 years later, how helpful my documentation had been for him.&#xA;I do strive to write clearly for both users who need a quick refresher and those who are approaching the product for the first time, so I wasn’t completely taken aback by his praise.</description>
+    </item>
+    <item>
+      <title>Break&#39;s over</title>
+      <link>http://localhost:1313/posts/2022-09-22-snippets/</link>
+      <pubDate>Thu, 22 Sep 2022 07:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-09-22-snippets/</guid>
+      <description>I finally took some vacation, which explains why I haven&amp;rsquo;t updated the blog recently.&#xA;I looked at this blog in a new light upon my return. My tone was getting negative. It&amp;rsquo;s time to fix that. Apparently, I was more tired than I realized.&#xA;Let&amp;rsquo;s look at an example of good packaging:&#xA;Why do I think this is good packaging? Because it makes few assumptions about what the user already knows.</description>
+    </item>
+    <item>
+      <title>Hiring process gaffe</title>
+      <link>http://localhost:1313/posts/2022-08-29-hiring-process-gaffe/</link>
+      <pubDate>Mon, 29 Aug 2022 12:05:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-08-29-hiring-process-gaffe/</guid>
+      <description>I once submitted an application to a firm that specializes in computer security, and was granted a screening teleconference with a technical recruiter. I was told to expect an e-mail about progress of my consideration for the position on the following Tuesday, which e-mail never arrived. I sent the technical recruiter an e-mail to ask about progress, and got an excuse. Five days later, I got an e-mail from the recruiter which stated that the firm had &amp;ldquo;decided to move forward with other candidates at this time.</description>
+    </item>
+    <item>
+      <title>Naming for the future</title>
+      <link>http://localhost:1313/posts/2022-08-22-naming-a-class-the-same-as-an-instance/</link>
+      <pubDate>Mon, 22 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-08-22-naming-a-class-the-same-as-an-instance/</guid>
+      <description>How we ended up here: There is never enough time.&#xA;Software evolves over time. When writing the software, a developer creates a simple object and calls it Provider. Later, there&amp;rsquo;s a need for another object quite similar to Provider, so the harried developer takes most (but not all) of the attributes of the object Provider and creates a class. Which the developer also calls Provider. There&amp;rsquo;s no time to think of another name, and even if there were all the time in the world, the developer might not see a need to apply a better name.</description>
+    </item>
+    <item>
+      <title>On not telling everything you know</title>
+      <link>http://localhost:1313/posts/2022-08-15-tell-what-you-know/</link>
+      <pubDate>Mon, 15 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-08-15-tell-what-you-know/</guid>
+      <description>Do we, as technical writers, tell the reader everything we know? Do we heck!&#xA;We most emphatically do not. And listing just the reasons why we do not would take a long time and a lot of words. That&amp;rsquo;s listing the reasons, not explaining any of them. But let&amp;rsquo;s talk about one of the reasons.&#xA;Readers are busy people. If they read the documentation at all, it&amp;rsquo;s usually because they were using the product to get something done, and hit a roadblock.</description>
+    </item>
+    <item>
+      <title>Writing-sample ethics</title>
+      <link>http://localhost:1313/posts/2022-08-08-writing-samples/</link>
+      <pubDate>Mon, 08 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-08-08-writing-samples/</guid>
+      <description>Technical writers maintain samples of documents that they once created and add those sample documents to their professional portfolios. Even though I do not (repeat: not) have a portfolio for the sole purpose of employment, writing samples can be useful when seeking a new technical writing position.&#xA;Showing samples to prospective employers was always a grey area ethically. What we think of as samples are single copies of work to which we do not own the copyright.</description>
+    </item>
+    <item>
+      <title>Are technical writers &#39;slow&#39;?</title>
+      <link>http://localhost:1313/posts/2022-08-01-are-we-slow/</link>
+      <pubDate>Mon, 01 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-08-01-are-we-slow/</guid>
+      <description>I spend most of my time at work thinking about the product users. Those are the people who will be reading what I wrote. That means I spend a lot of time considering what each person might not know, and might not know they don&amp;rsquo;t know. Part of the job of a technical writer is helping people learn. Which puts me in a very different head space than a lot of the people I work with.</description>
+    </item>
+    <item>
+      <title>Hiring process subtext and oblique signals: what&#39;s in a form?</title>
+      <link>http://localhost:1313/posts/2022-07-25-hiring-process-examples/</link>
+      <pubDate>Mon, 25 Jul 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-07-25-hiring-process-examples/</guid>
+      <description>I&amp;rsquo;m happy with my current employer, but next time it comes to looking for work as a technical writer, I intend to remember that not all companies are created equal. Some companies signal to prospective employees how they can expect to be treated. Unsurprisingly, especially to adherents of Sturgeon&amp;rsquo;s law, more companies will signal that they will not treat you well, but do not despair. There are still companies that signal the significant respect that they have for their employees and prospective employees.</description>
+    </item>
+    <item>
+      <title>In praise of the accuracy of subject matter experts</title>
+      <link>http://localhost:1313/posts/2022-07-19-in-praise-of-sme-accuracy/</link>
+      <pubDate>Tue, 19 Jul 2022 17:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-07-19-in-praise-of-sme-accuracy/</guid>
+      <description>During the course of a career lasting over 20 years, would you care to guess how many times I have been given data from a software developer that later turned out not to be correct?&#xA;A maximum of three.&#xA;Once, another developer informed me that something I had written wasn&amp;rsquo;t true. I provided the developer with a copy of the e-mail in which a different developer had said it was true.</description>
+    </item>
+    <item>
+      <title>Five duties of a technical writer</title>
+      <link>http://localhost:1313/posts/2022-07-19-why-not-write/</link>
+      <pubDate>Tue, 19 Jul 2022 09:15:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-07-19-why-not-write/</guid>
+      <description>Writing requires that you try to reach your reader. Technical writing doubly so. And that&amp;rsquo;s the part that isn&amp;rsquo;t easy. There are obstacles, and you have to do the work of overcoming all of them all of the time.&#xA;Here are five of my rules for technical writers.&#xA;You have to understand your topic.&#xA;In a lot of life, in conversations and in writing, you can have a vague idea of how something works.</description>
+    </item>
+    <item>
+      <title>Everyone knows THAT!</title>
+      <link>http://localhost:1313/posts/2022-07-11-share-the-deadline/</link>
+      <pubDate>Mon, 11 Jul 2022 12:15:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-07-11-share-the-deadline/</guid>
+      <description>Development can be incredibly self-focussed. Development managers and developers share information with members of the development team, and can be positively stunned to learn that not everyone has access.&#xA;Nowhere is this more obvious than when development is complete.&#xA;There is a belief that the deadline is available to technical writers, and in my experience, it is not available more than 50% of the time. There is a stronger belief that the availability of a feature to product users is known to everyone once development is complete.</description>
+    </item>
+    <item>
+      <title>Allow me to introduce myself</title>
+      <link>http://localhost:1313/posts/2022-07-11-by-way-of-introduction/</link>
+      <pubDate>Mon, 11 Jul 2022 12:14:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-07-11-by-way-of-introduction/</guid>
+      <description>I&amp;rsquo;m a technical writer with a career of 20 years&amp;rsquo; experience in full-time documentation of software (and occasionally hardware).&#xA;When I was doing my undergraduate degree in English, I took a creative writing course. Each week, we had the assignment of writing in a different style, and it was always most enjoyable. The week that we had to demonstrate our skill in instructional writing, I took advantage of my natural aptitude for detail and wrote a procedure for making a photographic print using a film negative and an enlarger.</description>
+    </item>
+  </channel>
+</rss>

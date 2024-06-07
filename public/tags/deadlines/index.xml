@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deadlines on Technical Writing Joys and Woes</title>
+    <link>http://localhost:1313/tags/deadlines/</link>
+    <description>Recent content in Deadlines on Technical Writing Joys and Woes</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
+    <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
+    <lastBuildDate>Thu, 08 Dec 2022 10:56:14 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/deadlines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technical writers are not helicopters</title>
+      <link>http://localhost:1313/posts/2022-12-08-helicopters/</link>
+      <pubDate>Thu, 08 Dec 2022 10:56:14 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-12-08-helicopters/</guid>
+      <description>The majority of developers and their managers have absolutely no idea what technical writers do. Most developers think of us as old-school secretaries (administrative assistants) who correct their typographical errors and handle their typing. If you are a developer who knows better, please educate your peers rather than sending me a note with the message “not all developers.”&#xA;Developers frequently work with time pressure. They have limited time to code and debug a feature.</description>
+    </item>
+    <item>
+      <title>Everyone knows THAT!</title>
+      <link>http://localhost:1313/posts/2022-07-11-share-the-deadline/</link>
+      <pubDate>Mon, 11 Jul 2022 12:15:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>http://localhost:1313/posts/2022-07-11-share-the-deadline/</guid>
+      <description>Development can be incredibly self-focussed. Development managers and developers share information with members of the development team, and can be positively stunned to learn that not everyone has access.&#xA;Nowhere is this more obvious than when development is complete.&#xA;There is a belief that the deadline is available to technical writers, and in my experience, it is not available more than 50% of the time. There is a stronger belief that the availability of a feature to product users is known to everyone once development is complete.</description>
+    </item>
+  </channel>
+</rss>

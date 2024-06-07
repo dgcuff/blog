@@ -1,0 +1,47 @@
+baseURL = 'https://blog.dougcuff.name'
+title = 'Technical Writing Joys and Woes'
+languageCode = "en-ca"
+theme = 'mainroad'
+paginate = '8' # Number of posts per page
+
+[services.disqus]
+  shortname = 'DougCuff' # Enable Disqus by entering your Disqus shortname
+
+[Params]
+authorbox = true # Show authorbox at bottom of pages if true
+googleFontsLink = 'https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700' # Load Google Fonts
+
+[Author] # Used in authorbox
+  name = 'Doug Cuff'
+  bio = "I've been writing documentation and help for over 20 years. It's still fun. Sometimes people unwittingly make it less fun."
+  avatar = 'img/avatar.png'
+
+[Params.author]
+    email = 'doug@dougcuff.name'
+    name = 'Doug Cuff'
+
+[Params.logo]
+  image = 'img/gear-pencil.png' # Logo image. Path relative to "static"
+  title = 'Technical Writing Joys and Woes' # Logo title, otherwise will use site title
+  subtitle = 'a technical writer speaks' # Logo subtitle
+
+[Params.thumbnail]
+  visibility = ["list", "post"] # Control thumbnail visibility
+
+[Params.sidebar]
+  home = 'right' # Configure layout for home page
+  list = 'left'  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+  
+# Custom social links
+[[Params.widgets.social.custom]]
+ title = "Mastodon"
+ url = "https://mstdn.ca/@dougcuff"
+  
