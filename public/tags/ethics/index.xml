@@ -2,19 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ethics on Technical Writing Joys and Woes</title>
+<<<<<<< HEAD
     <link>http://localhost:1313/tags/ethics/</link>
+=======
+    <link>https://blog.dougcuff.name/tags/ethics/</link>
+>>>>>>> 12a98bb (Test commit)
     <description>Recent content in Ethics on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Mon, 08 Aug 2022 12:30:00 -0400</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="http://localhost:1313/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing-sample ethics</title>
       <link>http://localhost:1313/posts/2022-08-08-writing-samples/</link>
       <pubDate>Mon, 08 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>http://localhost:1313/posts/2022-08-08-writing-samples/</guid>
+=======
+    <atom:link href="https://blog.dougcuff.name/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing-sample ethics</title>
+      <link>https://blog.dougcuff.name/posts/2022-08-08-writing-samples/</link>
+      <pubDate>Mon, 08 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>https://blog.dougcuff.name/posts/2022-08-08-writing-samples/</guid>
+>>>>>>> 12a98bb (Test commit)
       <description>Technical writers maintain samples of documents that they once created and add those sample documents to their professional portfolios. Even though I do not (repeat: not) have a portfolio for the sole purpose of employment, writing samples can be useful when seeking a new technical writing position.&#xA;Showing samples to prospective employers was always a grey area ethically. What we think of as samples are single copies of work to which we do not own the copyright.</description>
     </item>
   </channel>

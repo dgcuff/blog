@@ -2,19 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gratitude on Technical Writing Joys and Woes</title>
+<<<<<<< HEAD
     <link>http://localhost:1313/tags/gratitude/</link>
+=======
+    <link>https://blog.dougcuff.name/tags/gratitude/</link>
+>>>>>>> 12a98bb (Test commit)
     <description>Recent content in Gratitude on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Mon, 20 May 2024 10:25:00 -0400</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="http://localhost:1313/tags/gratitude/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meeting another reader</title>
       <link>http://localhost:1313/posts/2024-05-20-read-be-grateful/</link>
       <pubDate>Mon, 20 May 2024 10:25:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>http://localhost:1313/posts/2024-05-20-read-be-grateful/</guid>
+=======
+    <atom:link href="https://blog.dougcuff.name/tags/gratitude/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meeting another reader</title>
+      <link>https://blog.dougcuff.name/posts/2024-05-20-read-be-grateful/</link>
+      <pubDate>Mon, 20 May 2024 10:25:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>https://blog.dougcuff.name/posts/2024-05-20-read-be-grateful/</guid>
+>>>>>>> 12a98bb (Test commit)
       <description>Readers are becoming increasingly rare. I &amp;ldquo;met&amp;rdquo; one recently through a second-hand book.&#xA;Years ago now, I bought a 86-page speciality instructional book in the consignment section of a specialty shop. For less than half the price of a new copy.&#xA;I still haven&amp;rsquo;t read it but, today, I set down to make the book ready for me to read. Does that sound pompous? I just mean that I was erasing the pencil marks that the previous reader left in it.</description>
     </item>
   </channel>

@@ -2,40 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Examples on Technical Writing Joys and Woes</title>
+<<<<<<< HEAD
     <link>http://localhost:1313/categories/examples/</link>
+=======
+    <link>https://blog.dougcuff.name/categories/examples/</link>
+>>>>>>> 12a98bb (Test commit)
     <description>Recent content in Examples on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Sun, 07 Apr 2024 10:25:00 -0400</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="http://localhost:1313/categories/examples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Release notes for smartphone apps</title>
       <link>http://localhost:1313/posts/2024-04-07-release-notes-apps/</link>
       <pubDate>Sun, 07 Apr 2024 10:25:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>http://localhost:1313/posts/2024-04-07-release-notes-apps/</guid>
+=======
+    <atom:link href="https://blog.dougcuff.name/categories/examples/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Release notes for smartphone apps</title>
+      <link>https://blog.dougcuff.name/posts/2024-04-07-release-notes-apps/</link>
+      <pubDate>Sun, 07 Apr 2024 10:25:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>https://blog.dougcuff.name/posts/2024-04-07-release-notes-apps/</guid>
+>>>>>>> 12a98bb (Test commit)
       <description>Did you know that there was a time when people actually read release notes? Not all people read them, but some regular customers did.&#xA;Since I became an iPhone user, I&amp;rsquo;ve started noticing the release notes for updated versions of iPhone apps. The only major software publisher that consistly explains what&amp;rsquo;s new in a release is&amp;hellip; Apple itself.&#xA;Streamlined in-app notifications inform you when a person joins a collaborative document for the first time Preseve file format and full quality when adding HEIC photos taken on iPhone or iPad On iPad, press and hold the Command key on a connected keyboard to select noncontigous words, sentences, or paragraphs using a trackpad or mouse It&amp;rsquo;s not new that the release notes are an afterthought.</description>
     </item>
     <item>
       <title>Break&#39;s over</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/posts/2022-09-22-snippets/</link>
       <pubDate>Thu, 22 Sep 2022 07:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>http://localhost:1313/posts/2022-09-22-snippets/</guid>
+=======
+      <link>https://blog.dougcuff.name/posts/2022-09-22-snippets/</link>
+      <pubDate>Thu, 22 Sep 2022 07:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>https://blog.dougcuff.name/posts/2022-09-22-snippets/</guid>
+>>>>>>> 12a98bb (Test commit)
       <description>I finally took some vacation, which explains why I haven&amp;rsquo;t updated the blog recently.&#xA;I looked at this blog in a new light upon my return. My tone was getting negative. It&amp;rsquo;s time to fix that. Apparently, I was more tired than I realized.&#xA;Let&amp;rsquo;s look at an example of good packaging:&#xA;Why do I think this is good packaging? Because it makes few assumptions about what the user already knows.</description>
     </item>
     <item>
       <title>Hiring process subtext and oblique signals: what&#39;s in a form?</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/posts/2022-07-25-hiring-process-examples/</link>
       <pubDate>Mon, 25 Jul 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>http://localhost:1313/posts/2022-07-25-hiring-process-examples/</guid>
+=======
+      <link>https://blog.dougcuff.name/posts/2022-07-25-hiring-process-examples/</link>
+      <pubDate>Mon, 25 Jul 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>https://blog.dougcuff.name/posts/2022-07-25-hiring-process-examples/</guid>
+>>>>>>> 12a98bb (Test commit)
       <description>I&amp;rsquo;m happy with my current employer, but next time it comes to looking for work as a technical writer, I intend to remember that not all companies are created equal. Some companies signal to prospective employees how they can expect to be treated. Unsurprisingly, especially to adherents of Sturgeon&amp;rsquo;s law, more companies will signal that they will not treat you well, but do not despair. There are still companies that signal the significant respect that they have for their employees and prospective employees.</description>
     </item>
     <item>
       <title>Five duties of a technical writer</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/posts/2022-07-19-why-not-write/</link>
       <pubDate>Tue, 19 Jul 2022 09:15:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>http://localhost:1313/posts/2022-07-19-why-not-write/</guid>
+=======
+      <link>https://blog.dougcuff.name/posts/2022-07-19-why-not-write/</link>
+      <pubDate>Tue, 19 Jul 2022 09:15:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>https://blog.dougcuff.name/posts/2022-07-19-why-not-write/</guid>
+>>>>>>> 12a98bb (Test commit)
       <description>Writing requires that you try to reach your reader. Technical writing doubly so. And that&amp;rsquo;s the part that isn&amp;rsquo;t easy. There are obstacles, and you have to do the work of overcoming all of them all of the time.&#xA;Here are five of my rules for technical writers.&#xA;You have to understand your topic.&#xA;In a lot of life, in conversations and in writing, you can have a vague idea of how something works.</description>
     </item>
   </channel>

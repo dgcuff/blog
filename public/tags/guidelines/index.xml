@@ -2,19 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guidelines on Technical Writing Joys and Woes</title>
+<<<<<<< HEAD
     <link>http://localhost:1313/tags/guidelines/</link>
+=======
+    <link>https://blog.dougcuff.name/tags/guidelines/</link>
+>>>>>>> 12a98bb (Test commit)
     <description>Recent content in Guidelines on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Tue, 19 Jul 2022 09:15:00 -0400</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="http://localhost:1313/tags/guidelines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five duties of a technical writer</title>
       <link>http://localhost:1313/posts/2022-07-19-why-not-write/</link>
       <pubDate>Tue, 19 Jul 2022 09:15:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>http://localhost:1313/posts/2022-07-19-why-not-write/</guid>
+=======
+    <atom:link href="https://blog.dougcuff.name/tags/guidelines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Five duties of a technical writer</title>
+      <link>https://blog.dougcuff.name/posts/2022-07-19-why-not-write/</link>
+      <pubDate>Tue, 19 Jul 2022 09:15:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>https://blog.dougcuff.name/posts/2022-07-19-why-not-write/</guid>
+>>>>>>> 12a98bb (Test commit)
       <description>Writing requires that you try to reach your reader. Technical writing doubly so. And that&amp;rsquo;s the part that isn&amp;rsquo;t easy. There are obstacles, and you have to do the work of overcoming all of them all of the time.&#xA;Here are five of my rules for technical writers.&#xA;You have to understand your topic.&#xA;In a lot of life, in conversations and in writing, you can have a vague idea of how something works.</description>
     </item>
   </channel>

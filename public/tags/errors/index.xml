@@ -2,19 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Errors on Technical Writing Joys and Woes</title>
+<<<<<<< HEAD
     <link>http://localhost:1313/tags/errors/</link>
+=======
+    <link>https://blog.dougcuff.name/tags/errors/</link>
+>>>>>>> 12a98bb (Test commit)
     <description>Recent content in Errors on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Tue, 19 Jul 2022 17:00:00 -0400</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="http://localhost:1313/tags/errors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In praise of the accuracy of subject matter experts</title>
       <link>http://localhost:1313/posts/2022-07-19-in-praise-of-sme-accuracy/</link>
       <pubDate>Tue, 19 Jul 2022 17:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>http://localhost:1313/posts/2022-07-19-in-praise-of-sme-accuracy/</guid>
+=======
+    <atom:link href="https://blog.dougcuff.name/tags/errors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In praise of the accuracy of subject matter experts</title>
+      <link>https://blog.dougcuff.name/posts/2022-07-19-in-praise-of-sme-accuracy/</link>
+      <pubDate>Tue, 19 Jul 2022 17:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>https://blog.dougcuff.name/posts/2022-07-19-in-praise-of-sme-accuracy/</guid>
+>>>>>>> 12a98bb (Test commit)
       <description>During the course of a career lasting over 20 years, would you care to guess how many times I have been given data from a software developer that later turned out not to be correct?&#xA;A maximum of three.&#xA;Once, another developer informed me that something I had written wasn&amp;rsquo;t true. I provided the developer with a copy of the e-mail in which a different developer had said it was true.</description>
     </item>
   </channel>

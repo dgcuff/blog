@@ -2,26 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Technical Writing Joys and Woes</title>
+<<<<<<< HEAD
     <link>http://localhost:1313/tags/hugo/</link>
+=======
+    <link>https://blog.dougcuff.name/tags/hugo/</link>
+>>>>>>> 12a98bb (Test commit)
     <description>Recent content in Hugo on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Thu, 04 Apr 2024 10:56:15 -0400</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why no blog updates for over a year</title>
       <link>http://localhost:1313/posts/2024-03-02-absence/</link>
       <pubDate>Thu, 04 Apr 2024 10:56:15 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>http://localhost:1313/posts/2024-03-02-absence/</guid>
+=======
+    <atom:link href="https://blog.dougcuff.name/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why no blog updates for over a year</title>
+      <link>https://blog.dougcuff.name/posts/2024-03-02-absence/</link>
+      <pubDate>Thu, 04 Apr 2024 10:56:15 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>https://blog.dougcuff.name/posts/2024-03-02-absence/</guid>
+>>>>>>> 12a98bb (Test commit)
       <description>I haven&amp;rsquo;t been posting. Why? Because I ran into a technical issue that prevented me from connecting to GitHub. Weekend after weekend, I tried to solve it.&#xA;I read post after post that claimed to have the fix. None of them helped. I have decent beginner&amp;rsquo;s technical skills, but I could not find a fix.&#xA;Eventually, I accepted that I was going to have to uninstall (part of) a commercial piece of software.</description>
     </item>
     <item>
       <title>Feeling appreciated</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/posts/2022-09-27-unintended-use/</link>
       <pubDate>Tue, 27 Sep 2022 07:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>http://localhost:1313/posts/2022-09-27-unintended-use/</guid>
+=======
+      <link>https://blog.dougcuff.name/posts/2022-09-27-unintended-use/</link>
+      <pubDate>Tue, 27 Sep 2022 07:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>https://blog.dougcuff.name/posts/2022-09-27-unintended-use/</guid>
+>>>>>>> 12a98bb (Test commit)
       <description>While walking through my local park, I ran into a former co-worker from 20 years back. I had been creating documentation; he had been supporting customers. He mentioned to me, 20 years later, how helpful my documentation had been for him.&#xA;I do strive to write clearly for both users who need a quick refresher and those who are approaching the product for the first time, so I wasn’t completely taken aback by his praise.</description>
     </item>
   </channel>
