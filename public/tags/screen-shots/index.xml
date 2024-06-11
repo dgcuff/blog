@@ -2,32 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Screen-Shots on Technical Writing Joys and Woes</title>
-<<<<<<< HEAD
-    <link>http://localhost:1313/tags/screen-shots/</link>
-=======
     <link>https://blog.dougcuff.name/tags/screen-shots/</link>
->>>>>>> 12a98bb (Test commit)
     <description>Recent content in Screen-Shots on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Mon, 15 Aug 2022 12:30:00 -0400</lastBuildDate>
-<<<<<<< HEAD
-    <atom:link href="http://localhost:1313/tags/screen-shots/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>On not telling everything you know</title>
-      <link>http://localhost:1313/posts/2022-08-15-tell-what-you-know/</link>
-      <pubDate>Mon, 15 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/posts/2022-08-15-tell-what-you-know/</guid>
-=======
     <atom:link href="https://blog.dougcuff.name/tags/screen-shots/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On not telling everything you know</title>
       <link>https://blog.dougcuff.name/posts/2022-08-15-tell-what-you-know/</link>
       <pubDate>Mon, 15 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/posts/2022-08-15-tell-what-you-know/</guid>
->>>>>>> 12a98bb (Test commit)
       <description>Do we, as technical writers, tell the reader everything we know? Do we heck!&#xA;We most emphatically do not. And listing just the reasons why we do not would take a long time and a lot of words. That&amp;rsquo;s listing the reasons, not explaining any of them. But let&amp;rsquo;s talk about one of the reasons.&#xA;Readers are busy people. If they read the documentation at all, it&amp;rsquo;s usually because they were using the product to get something done, and hit a roadblock.</description>
     </item>
   </channel>

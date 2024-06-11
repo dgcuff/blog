@@ -2,45 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feedback on Technical Writing Joys and Woes</title>
-<<<<<<< HEAD
-    <link>http://localhost:1313/tags/feedback/</link>
-=======
     <link>https://blog.dougcuff.name/tags/feedback/</link>
->>>>>>> 12a98bb (Test commit)
     <description>Recent content in Feedback on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Tue, 14 Feb 2023 07:00:00 -0400</lastBuildDate>
-<<<<<<< HEAD
-    <atom:link href="http://localhost:1313/tags/feedback/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>On dropping a stone down a well</title>
-      <link>http://localhost:1313/posts/2023-02-14-children-will-listen/</link>
-      <pubDate>Tue, 14 Feb 2023 07:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/posts/2023-02-14-children-will-listen/</guid>
-=======
     <atom:link href="https://blog.dougcuff.name/tags/feedback/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On dropping a stone down a well</title>
       <link>https://blog.dougcuff.name/posts/2023-02-14-children-will-listen/</link>
       <pubDate>Tue, 14 Feb 2023 07:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/posts/2023-02-14-children-will-listen/</guid>
->>>>>>> 12a98bb (Test commit)
       <description>The most recent time I was considering and being considered for a new technical writing position, I got a surprise. One of the managers mentioned my recent posting on this blog, Technical writers are not helicopters.&#xA;That was the first indication I had had that anyone ever read any of this blog.&#xA;Even in the smartphone age, writing is still like dropping a stone in a well and waiting to hear the splash.</description>
     </item>
     <item>
       <title>Giving thanks</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/posts/2022-10-09-thanksgiving/</link>
-      <pubDate>Sat, 08 Oct 2022 10:56:14 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/posts/2022-10-09-thanksgiving/</guid>
-=======
       <link>https://blog.dougcuff.name/posts/2022-10-09-thanksgiving/</link>
       <pubDate>Sat, 08 Oct 2022 10:56:14 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/posts/2022-10-09-thanksgiving/</guid>
->>>>>>> 12a98bb (Test commit)
       <description>Over the years, I have been blessed by working with terrific people.&#xA;Testers. Managers. Developers. Software architects. Customer support people at various levels. Fellow technical writers. Executives. Subject matter experts.&#xA;Quite a lot of these people could write a lot better than they thought they could. When they wrote, they thought about the user.&#xA;Some of them couldn&amp;rsquo;t write well but they were great at talking about what they wanted to write&amp;hellip; if only I could get enough of their time to interview them.</description>
     </item>
   </channel>

@@ -2,32 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speed on Technical Writing Joys and Woes</title>
-<<<<<<< HEAD
-    <link>http://localhost:1313/tags/speed/</link>
-=======
     <link>https://blog.dougcuff.name/tags/speed/</link>
->>>>>>> 12a98bb (Test commit)
     <description>Recent content in Speed on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Mon, 01 Aug 2022 12:30:00 -0400</lastBuildDate>
-<<<<<<< HEAD
-    <atom:link href="http://localhost:1313/tags/speed/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Are technical writers &#39;slow&#39;?</title>
-      <link>http://localhost:1313/posts/2022-08-01-are-we-slow/</link>
-      <pubDate>Mon, 01 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/posts/2022-08-01-are-we-slow/</guid>
-=======
     <atom:link href="https://blog.dougcuff.name/tags/speed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are technical writers &#39;slow&#39;?</title>
       <link>https://blog.dougcuff.name/posts/2022-08-01-are-we-slow/</link>
       <pubDate>Mon, 01 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/posts/2022-08-01-are-we-slow/</guid>
->>>>>>> 12a98bb (Test commit)
       <description>I spend most of my time at work thinking about the product users. Those are the people who will be reading what I wrote. That means I spend a lot of time considering what each person might not know, and might not know they don&amp;rsquo;t know. Part of the job of a technical writer is helping people learn. Which puts me in a very different head space than a lot of the people I work with.</description>
     </item>
   </channel>

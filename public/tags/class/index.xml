@@ -2,32 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Class on Technical Writing Joys and Woes</title>
-<<<<<<< HEAD
-    <link>http://localhost:1313/tags/class/</link>
-=======
     <link>https://blog.dougcuff.name/tags/class/</link>
->>>>>>> 12a98bb (Test commit)
     <description>Recent content in Class on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Mon, 22 Aug 2022 12:30:00 -0400</lastBuildDate>
-<<<<<<< HEAD
-    <atom:link href="http://localhost:1313/tags/class/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Naming for the future</title>
-      <link>http://localhost:1313/posts/2022-08-22-naming-a-class-the-same-as-an-instance/</link>
-      <pubDate>Mon, 22 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/posts/2022-08-22-naming-a-class-the-same-as-an-instance/</guid>
-=======
     <atom:link href="https://blog.dougcuff.name/tags/class/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Naming for the future</title>
       <link>https://blog.dougcuff.name/posts/2022-08-22-naming-a-class-the-same-as-an-instance/</link>
       <pubDate>Mon, 22 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/posts/2022-08-22-naming-a-class-the-same-as-an-instance/</guid>
->>>>>>> 12a98bb (Test commit)
       <description>How we ended up here: There is never enough time.&#xA;Software evolves over time. When writing the software, a developer creates a simple object and calls it Provider. Later, there&amp;rsquo;s a need for another object quite similar to Provider, so the harried developer takes most (but not all) of the attributes of the object Provider and creates a class. Which the developer also calls Provider. There&amp;rsquo;s no time to think of another name, and even if there were all the time in the world, the developer might not see a need to apply a better name.</description>
     </item>
   </channel>

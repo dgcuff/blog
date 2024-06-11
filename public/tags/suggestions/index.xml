@@ -2,45 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suggestions on Technical Writing Joys and Woes</title>
-<<<<<<< HEAD
-    <link>http://localhost:1313/tags/suggestions/</link>
-=======
     <link>https://blog.dougcuff.name/tags/suggestions/</link>
->>>>>>> 12a98bb (Test commit)
     <description>Recent content in Suggestions on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Sun, 21 Apr 2024 15:00:00 -0400</lastBuildDate>
-<<<<<<< HEAD
-    <atom:link href="http://localhost:1313/tags/suggestions/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Questioning assumption</title>
-      <link>http://localhost:1313/posts/2024-04-21-assumptions-uncovering/</link>
-      <pubDate>Sun, 21 Apr 2024 15:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/posts/2024-04-21-assumptions-uncovering/</guid>
-=======
     <atom:link href="https://blog.dougcuff.name/tags/suggestions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Questioning assumption</title>
       <link>https://blog.dougcuff.name/posts/2024-04-21-assumptions-uncovering/</link>
       <pubDate>Sun, 21 Apr 2024 15:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/posts/2024-04-21-assumptions-uncovering/</guid>
->>>>>>> 12a98bb (Test commit)
       <description>Assumptions engage our human emotions.&#xA;Some assumptions are embarrassing. CBC Radio &amp;ldquo;Morningside&amp;rdquo; host (the late) Peter Gzowski, long in a job that paid more than a living wage, once made the assumption that retirement tax breaks were available to all&amp;hellip; when they require a minimum income. Some assumptions are infuriating. In the &amp;ldquo;Doonebury&amp;rdquo; comic strip, cartoonist Garry Trudeau once did a masterful job of deflating privlege rather than ranting about it.</description>
     </item>
     <item>
       <title>Five duties of a technical writer</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/posts/2022-07-19-why-not-write/</link>
-      <pubDate>Tue, 19 Jul 2022 09:15:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/posts/2022-07-19-why-not-write/</guid>
-=======
       <link>https://blog.dougcuff.name/posts/2022-07-19-why-not-write/</link>
       <pubDate>Tue, 19 Jul 2022 09:15:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/posts/2022-07-19-why-not-write/</guid>
->>>>>>> 12a98bb (Test commit)
       <description>Writing requires that you try to reach your reader. Technical writing doubly so. And that&amp;rsquo;s the part that isn&amp;rsquo;t easy. There are obstacles, and you have to do the work of overcoming all of them all of the time.&#xA;Here are five of my rules for technical writers.&#xA;You have to understand your topic.&#xA;In a lot of life, in conversations and in writing, you can have a vague idea of how something works.</description>
     </item>
   </channel>

@@ -2,32 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teabag on Technical Writing Joys and Woes</title>
-<<<<<<< HEAD
-    <link>http://localhost:1313/tags/teabag/</link>
-=======
     <link>https://blog.dougcuff.name/tags/teabag/</link>
->>>>>>> 12a98bb (Test commit)
     <description>Recent content in Teabag on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Thu, 22 Sep 2022 07:00:00 -0400</lastBuildDate>
-<<<<<<< HEAD
-    <atom:link href="http://localhost:1313/tags/teabag/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Break&#39;s over</title>
-      <link>http://localhost:1313/posts/2022-09-22-snippets/</link>
-      <pubDate>Thu, 22 Sep 2022 07:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/posts/2022-09-22-snippets/</guid>
-=======
     <atom:link href="https://blog.dougcuff.name/tags/teabag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Break&#39;s over</title>
       <link>https://blog.dougcuff.name/posts/2022-09-22-snippets/</link>
       <pubDate>Thu, 22 Sep 2022 07:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/posts/2022-09-22-snippets/</guid>
->>>>>>> 12a98bb (Test commit)
       <description>I finally took some vacation, which explains why I haven&amp;rsquo;t updated the blog recently.&#xA;I looked at this blog in a new light upon my return. My tone was getting negative. It&amp;rsquo;s time to fix that. Apparently, I was more tired than I realized.&#xA;Let&amp;rsquo;s look at an example of good packaging:&#xA;Why do I think this is good packaging? Because it makes few assumptions about what the user already knows.</description>
     </item>
   </channel>

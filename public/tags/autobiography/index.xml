@@ -2,32 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autobiography on Technical Writing Joys and Woes</title>
-<<<<<<< HEAD
-    <link>http://localhost:1313/tags/autobiography/</link>
-=======
     <link>https://blog.dougcuff.name/tags/autobiography/</link>
->>>>>>> 12a98bb (Test commit)
     <description>Recent content in Autobiography on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Mon, 11 Jul 2022 12:14:00 -0400</lastBuildDate>
-<<<<<<< HEAD
-    <atom:link href="http://localhost:1313/tags/autobiography/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Allow me to introduce myself</title>
-      <link>http://localhost:1313/posts/2022-07-11-by-way-of-introduction/</link>
-      <pubDate>Mon, 11 Jul 2022 12:14:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/posts/2022-07-11-by-way-of-introduction/</guid>
-=======
     <atom:link href="https://blog.dougcuff.name/tags/autobiography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Allow me to introduce myself</title>
       <link>https://blog.dougcuff.name/posts/2022-07-11-by-way-of-introduction/</link>
       <pubDate>Mon, 11 Jul 2022 12:14:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/posts/2022-07-11-by-way-of-introduction/</guid>
->>>>>>> 12a98bb (Test commit)
       <description>I&amp;rsquo;m a technical writer with a career of 20 years&amp;rsquo; experience in full-time documentation of software (and occasionally hardware).&#xA;When I was doing my undergraduate degree in English, I took a creative writing course. Each week, we had the assignment of writing in a different style, and it was always most enjoyable. The week that we had to demonstrate our skill in instructional writing, I took advantage of my natural aptitude for detail and wrote a procedure for making a photographic print using a film negative and an enlarger.</description>
     </item>
   </channel>

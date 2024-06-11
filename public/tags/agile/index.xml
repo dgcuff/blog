@@ -2,32 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agile on Technical Writing Joys and Woes</title>
-<<<<<<< HEAD
-    <link>http://localhost:1313/tags/agile/</link>
-=======
     <link>https://blog.dougcuff.name/tags/agile/</link>
->>>>>>> 12a98bb (Test commit)
     <description>Recent content in Agile on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Mon, 11 Jul 2022 12:15:00 -0400</lastBuildDate>
-<<<<<<< HEAD
-    <atom:link href="http://localhost:1313/tags/agile/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Everyone knows THAT!</title>
-      <link>http://localhost:1313/posts/2022-07-11-share-the-deadline/</link>
-      <pubDate>Mon, 11 Jul 2022 12:15:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/posts/2022-07-11-share-the-deadline/</guid>
-=======
     <atom:link href="https://blog.dougcuff.name/tags/agile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Everyone knows THAT!</title>
       <link>https://blog.dougcuff.name/posts/2022-07-11-share-the-deadline/</link>
       <pubDate>Mon, 11 Jul 2022 12:15:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/posts/2022-07-11-share-the-deadline/</guid>
->>>>>>> 12a98bb (Test commit)
       <description>Development can be incredibly self-focussed. Development managers and developers share information with members of the development team, and can be positively stunned to learn that not everyone has access.&#xA;Nowhere is this more obvious than when development is complete.&#xA;There is a belief that the deadline is available to technical writers, and in my experience, it is not available more than 50% of the time. There is a stronger belief that the availability of a feature to product users is known to everyone once development is complete.</description>
     </item>
   </channel>

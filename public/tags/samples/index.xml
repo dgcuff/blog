@@ -2,45 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samples on Technical Writing Joys and Woes</title>
-<<<<<<< HEAD
-    <link>http://localhost:1313/tags/samples/</link>
-=======
     <link>https://blog.dougcuff.name/tags/samples/</link>
->>>>>>> 12a98bb (Test commit)
     <description>Recent content in Samples on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Sun, 07 Apr 2024 10:25:00 -0400</lastBuildDate>
-<<<<<<< HEAD
-    <atom:link href="http://localhost:1313/tags/samples/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Release notes for smartphone apps</title>
-      <link>http://localhost:1313/posts/2024-04-07-release-notes-apps/</link>
-      <pubDate>Sun, 07 Apr 2024 10:25:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/posts/2024-04-07-release-notes-apps/</guid>
-=======
     <atom:link href="https://blog.dougcuff.name/tags/samples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Release notes for smartphone apps</title>
       <link>https://blog.dougcuff.name/posts/2024-04-07-release-notes-apps/</link>
       <pubDate>Sun, 07 Apr 2024 10:25:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/posts/2024-04-07-release-notes-apps/</guid>
->>>>>>> 12a98bb (Test commit)
       <description>Did you know that there was a time when people actually read release notes? Not all people read them, but some regular customers did.&#xA;Since I became an iPhone user, I&amp;rsquo;ve started noticing the release notes for updated versions of iPhone apps. The only major software publisher that consistly explains what&amp;rsquo;s new in a release is&amp;hellip; Apple itself.&#xA;Streamlined in-app notifications inform you when a person joins a collaborative document for the first time Preseve file format and full quality when adding HEIC photos taken on iPhone or iPad On iPad, press and hold the Command key on a connected keyboard to select noncontigous words, sentences, or paragraphs using a trackpad or mouse It&amp;rsquo;s not new that the release notes are an afterthought.</description>
     </item>
     <item>
       <title>Writing-sample ethics</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/posts/2022-08-08-writing-samples/</link>
-      <pubDate>Mon, 08 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/posts/2022-08-08-writing-samples/</guid>
-=======
       <link>https://blog.dougcuff.name/posts/2022-08-08-writing-samples/</link>
       <pubDate>Mon, 08 Aug 2022 12:30:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/posts/2022-08-08-writing-samples/</guid>
->>>>>>> 12a98bb (Test commit)
       <description>Technical writers maintain samples of documents that they once created and add those sample documents to their professional portfolios. Even though I do not (repeat: not) have a portfolio for the sole purpose of employment, writing samples can be useful when seeking a new technical writing position.&#xA;Showing samples to prospective employers was always a grey area ethically. What we think of as samples are single copies of work to which we do not own the copyright.</description>
     </item>
   </channel>

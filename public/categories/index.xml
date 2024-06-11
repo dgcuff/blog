@@ -2,97 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Technical Writing Joys and Woes</title>
-<<<<<<< HEAD
-    <link>http://localhost:1313/categories/</link>
-=======
     <link>https://blog.dougcuff.name/categories/</link>
->>>>>>> 12a98bb (Test commit)
     <description>Recent content in Categories on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Mon, 20 May 2024 10:25:00 -0400</lastBuildDate>
-<<<<<<< HEAD
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Communication</title>
-      <link>http://localhost:1313/categories/communication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/categories/communication/</guid>
-=======
     <atom:link href="https://blog.dougcuff.name/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Communication</title>
       <link>https://blog.dougcuff.name/categories/communication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/categories/communication/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Examples</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/categories/examples/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/categories/examples/</guid>
-=======
       <link>https://blog.dougcuff.name/categories/examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/categories/examples/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Personal</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/categories/personal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/categories/personal/</guid>
-=======
       <link>https://blog.dougcuff.name/categories/personal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/categories/personal/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Employment</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/categories/employment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/categories/employment/</guid>
-=======
       <link>https://blog.dougcuff.name/categories/employment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/categories/employment/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Developers</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/categories/developers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/categories/developers/</guid>
-=======
       <link>https://blog.dougcuff.name/categories/developers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/categories/developers/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Rules</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/categories/rules/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/categories/rules/</guid>
-=======
       <link>https://blog.dougcuff.name/categories/rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/categories/rules/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
   </channel>

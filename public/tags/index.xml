@@ -2,760 +2,411 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Technical Writing Joys and Woes</title>
-<<<<<<< HEAD
-    <link>http://localhost:1313/tags/</link>
-=======
     <link>https://blog.dougcuff.name/tags/</link>
->>>>>>> 12a98bb (Test commit)
     <description>Recent content in Tags on Technical Writing Joys and Woes</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
     <lastBuildDate>Mon, 20 May 2024 10:25:00 -0400</lastBuildDate>
-<<<<<<< HEAD
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gratitude</title>
-      <link>http://localhost:1313/tags/gratitude/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/gratitude/</guid>
-=======
     <atom:link href="https://blog.dougcuff.name/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gratitude</title>
       <link>https://blog.dougcuff.name/tags/gratitude/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/gratitude/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Reading</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/reading/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/reading/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/reading/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Non-Writers</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/non-writers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/non-writers/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/non-writers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/non-writers/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Suggestions</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/suggestions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/suggestions/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/suggestions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/suggestions/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Samples</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/samples/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/samples/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/samples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/samples/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/hugo/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/hugo/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Jekyll</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/jekyll/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/jekyll/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/jekyll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/jekyll/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Feedback</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/feedback/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/feedback/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/feedback/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/feedback/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Coders</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/coders/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/coders/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/coders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/coders/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Deadlines</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/deadlines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/deadlines/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/deadlines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/deadlines/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Developers</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/developers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/developers/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/developers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/developers/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Programmers</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/programmers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/programmers/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/programmers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/programmers/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Scheduling</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/scheduling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/scheduling/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/scheduling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/scheduling/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Software-Developers</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/software-developers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/software-developers/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/software-developers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/software-developers/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Software-Engineers</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/software-engineers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/software-engineers/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/software-engineers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/software-engineers/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Praise</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/praise/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/praise/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/praise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/praise/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Teabag</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/teabag/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/teabag/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/teabag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/teabag/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Twitter</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/twitter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/twitter/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/twitter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/twitter/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Employment</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/employment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/employment/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/employment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/employment/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Hiring</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/hiring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/hiring/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/hiring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/hiring/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Interview</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/interview/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/interview/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/interview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/interview/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Job</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/job/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/job/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/job/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/job/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Job-Search</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/job-search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/job-search/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/job-search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/job-search/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Recruiter</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/recruiter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/recruiter/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/recruiter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/recruiter/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Recruitment</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/recruitment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/recruitment/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/recruitment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/recruitment/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Screening</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/screening/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/screening/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/screening/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/screening/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Staffing</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/staffing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/staffing/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/staffing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/staffing/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Class</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/class/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/class/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/class/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Instance</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/instance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/instance/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/instance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/instance/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Names</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/names/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/names/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/names/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/names/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Naming</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/naming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/naming/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/naming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/naming/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Parent-Child</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/parent-child/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/parent-child/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/parent-child/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/parent-child/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Research</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/research/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/research/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Screen-Shots</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/screen-shots/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/screen-shots/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/screen-shots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/screen-shots/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Screenshots</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/screenshots/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/screenshots/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/screenshots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/screenshots/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Copyright</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/copyright/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/copyright/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/copyright/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/copyright/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Ethics</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/ethics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/ethics/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/ethics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/ethics/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Intellectual-Property</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/intellectual-property/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/intellectual-property/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/intellectual-property/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/intellectual-property/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Pre-Interview</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/pre-interview/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/pre-interview/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/pre-interview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/pre-interview/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Flow-State</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/flow-state/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/flow-state/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/flow-state/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/flow-state/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Slowness</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/slowness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/slowness/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/slowness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/slowness/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Speed</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/speed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/speed/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/speed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/speed/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>String-Review</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/string-review/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/string-review/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/string-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/string-review/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>User-Interface-Review</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/user-interface-review/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/user-interface-review/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/user-interface-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/user-interface-review/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Errors</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/errors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/errors/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/errors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/errors/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Experts</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/experts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/experts/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/experts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/experts/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Mistakes</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/mistakes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/mistakes/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/mistakes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/mistakes/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>SMEs</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/smes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/smes/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/smes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/smes/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Subject-Matter-Experts</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/subject-matter-experts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/subject-matter-experts/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/subject-matter-experts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/subject-matter-experts/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Communication</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/communication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/communication/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/communication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/communication/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Duties</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/duties/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/duties/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/duties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/duties/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Duty</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/duty/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/duty/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/duty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/duty/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Guidelines</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/guidelines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/guidelines/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/guidelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/guidelines/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Rules</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/rules/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/rules/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/rules/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Agile</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/agile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/agile/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/agile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/agile/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Autobiography</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/autobiography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/autobiography/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/autobiography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/autobiography/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
     <item>
       <title>Persuasive-Writing</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/persuasive-writing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>http://localhost:1313/tags/persuasive-writing/</guid>
-=======
       <link>https://blog.dougcuff.name/tags/persuasive-writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/persuasive-writing/</guid>
->>>>>>> 12a98bb (Test commit)
       <description></description>
     </item>
   </channel>
