@@ -23,7 +23,7 @@ googleFontsLink = 'https://fonts.googleapis.com/css?family=Open+Sans:400,400i,70
 [Params.logo]
   image = 'img/gear-pencil.png' # Logo image. Path relative to "static"
   title = 'Technical Writing Joys and Woes' # Logo title, otherwise will use site title
-  subtitle = 'a technical writer speaks' # Logo subtitle
+  subtitle = 'a technical writer speaks up' # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
