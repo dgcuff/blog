@@ -2,7 +2,7 @@ baseURL = 'https://blog.dougcuff.name'
 title = 'Technical Writing Joys and Woes'
 languageCode = "en-ca"
 theme = 'mainroad'
-paginate = '3' # Number of posts per page
+paginate = '5' # Number of posts per page
 
 [services.disqus]
   shortname = 'DougCuff' # Enable Disqus by entering your Disqus shortname
