@@ -17,12 +17,5 @@
       <guid>https://blog.dougcuff.name/posts/2024-06-13-starting-over-with-hugo/</guid>
       <description>As I mentioned in Why no blog updates for over a year, I ran into some problems with Jekyll, the framework I used to publish blog entries. I eventually fixed the problem. Then I tried to update Jekyll. Which caused different problems.&#xA;So I&amp;rsquo;m done with Jekyll. I&amp;rsquo;ve moved to Hugo. While that is the name of Martin Scorscese&amp;rsquo;s only film for children, it&amp;rsquo;s also the name of another framework for building websites.</description>
     </item>
-    <item>
-      <title>Feeling appreciated</title>
-      <link>https://blog.dougcuff.name/posts/2022-09-27-unintended-use/</link>
-      <pubDate>Tue, 27 Sep 2022 07:00:00 -0400</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>https://blog.dougcuff.name/posts/2022-09-27-unintended-use/</guid>
-      <description>While walking through my local park, I ran into a former co-worker from 20 years back. I had been creating documentation; he had been supporting customers. He mentioned to me, 20 years later, how helpful my documentation had been for him.&#xA;I do strive to write clearly for both users who need a quick refresher and those who are approaching the product for the first time, so I wasn’t completely taken aback by his praise.</description>
-    </item>
   </channel>
 </rss>

@@ -1,8 +1,8 @@
 +++
 title = "Feeling appreciated"
 date = 2022-09-27T07:00:00-04:00
-tags = ['Jekyll', 'Hugo']
-categories = ['personal']
+tags = ['feedback']
+categories = ['communication']
 +++
 While walking through my local park, I ran into a former co-worker from 20 years back. I had been creating documentation; he had been supporting customers. He mentioned to me, 20 years later, how helpful my documentation had been for him. 
 
