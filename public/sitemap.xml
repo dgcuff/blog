@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.dougcuff.name/posts/</loc>
+    <lastmod>2024-06-15T09:50:00-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.dougcuff.name/</loc>
+    <lastmod>2024-06-15T09:50:00-04:00</lastmod>
+  </url><url>
     <loc>https://blog.dougcuff.name/categories/</loc>
     <lastmod>2024-05-20T10:25:00-04:00</lastmod>
   </url><url>
@@ -14,16 +20,10 @@
     <loc>https://blog.dougcuff.name/posts/2024-05-20-read-be-grateful/</loc>
     <lastmod>2024-05-20T10:25:00-04:00</lastmod>
   </url><url>
-    <loc>https://blog.dougcuff.name/posts/</loc>
-    <lastmod>2024-05-20T10:25:00-04:00</lastmod>
-  </url><url>
     <loc>https://blog.dougcuff.name/tags/reading/</loc>
     <lastmod>2024-05-20T10:25:00-04:00</lastmod>
   </url><url>
     <loc>https://blog.dougcuff.name/tags/</loc>
-    <lastmod>2024-05-20T10:25:00-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.dougcuff.name/</loc>
     <lastmod>2024-05-20T10:25:00-04:00</lastmod>
   </url><url>
     <loc>https://blog.dougcuff.name/tags/non-writers/</loc>
