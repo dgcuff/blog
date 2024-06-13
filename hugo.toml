@@ -4,9 +4,6 @@ languageCode = "en-ca"
 theme = 'mainroad'
 paginate = '5' # Number of posts per page
 
-[services.disqus]
-  shortname = 'DougCuff' # Enable Disqus by entering your Disqus shortname
-
 [Params]
 authorbox = true # Show authorbox at bottom of pages if true
 googleFontsLink = 'https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700' # Load Google Fonts
