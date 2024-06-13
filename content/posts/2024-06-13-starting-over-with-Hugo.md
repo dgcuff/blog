@@ -1,6 +1,6 @@
 +++
 title = "Why no blog updates for the past month"
-date = 2024-06-15T09:50:00-04:00
+date = 2024-06-13T08:50:00-04:00
 description = "Explaining how technical issues paused this blog again."
 tags = ['Jekyll', 'Hugo']
 categories = ['personal']
