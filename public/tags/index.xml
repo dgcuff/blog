@@ -8,8 +8,22 @@
     <language>en-ca</language>
     <managingEditor>doug@dougcuff.name (Doug Cuff)</managingEditor>
     <webMaster>doug@dougcuff.name (Doug Cuff)</webMaster>
-    <lastBuildDate>Mon, 20 May 2024 10:25:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 08:50:00 -0400</lastBuildDate>
     <atom:link href="https://blog.dougcuff.name/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://blog.dougcuff.name/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>https://blog.dougcuff.name/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jekyll</title>
+      <link>https://blog.dougcuff.name/tags/jekyll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
+      <guid>https://blog.dougcuff.name/tags/jekyll/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Gratitude</title>
       <link>https://blog.dougcuff.name/tags/gratitude/</link>
@@ -43,20 +57,6 @@
       <link>https://blog.dougcuff.name/tags/samples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
       <guid>https://blog.dougcuff.name/tags/samples/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>https://blog.dougcuff.name/tags/hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>https://blog.dougcuff.name/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jekyll</title>
-      <link>https://blog.dougcuff.name/tags/jekyll/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>doug@dougcuff.name (Doug Cuff)</author>
-      <guid>https://blog.dougcuff.name/tags/jekyll/</guid>
       <description></description>
     </item>
     <item>

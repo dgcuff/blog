@@ -2,14 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.dougcuff.name/categories/</loc>
+    <lastmod>2024-06-13T08:50:00-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.dougcuff.name/tags/hugo/</loc>
+    <lastmod>2024-06-13T08:50:00-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.dougcuff.name/tags/jekyll/</loc>
+    <lastmod>2024-06-13T08:50:00-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.dougcuff.name/categories/personal/</loc>
+    <lastmod>2024-06-13T08:50:00-04:00</lastmod>
+  </url><url>
     <loc>https://blog.dougcuff.name/posts/</loc>
-    <lastmod>2024-06-15T09:50:00-04:00</lastmod>
+    <lastmod>2024-06-13T08:50:00-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.dougcuff.name/tags/</loc>
+    <lastmod>2024-06-13T08:50:00-04:00</lastmod>
   </url><url>
     <loc>https://blog.dougcuff.name/</loc>
-    <lastmod>2024-06-15T09:50:00-04:00</lastmod>
+    <lastmod>2024-06-13T08:50:00-04:00</lastmod>
   </url><url>
-    <loc>https://blog.dougcuff.name/categories/</loc>
-    <lastmod>2024-05-20T10:25:00-04:00</lastmod>
+    <loc>https://blog.dougcuff.name/posts/2024-06-13-starting-over-with-hugo/</loc>
+    <lastmod>2024-06-13T08:50:00-04:00</lastmod>
   </url><url>
     <loc>https://blog.dougcuff.name/categories/communication/</loc>
     <lastmod>2024-05-20T10:25:00-04:00</lastmod>
@@ -21,9 +36,6 @@
     <lastmod>2024-05-20T10:25:00-04:00</lastmod>
   </url><url>
     <loc>https://blog.dougcuff.name/tags/reading/</loc>
-    <lastmod>2024-05-20T10:25:00-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.dougcuff.name/tags/</loc>
     <lastmod>2024-05-20T10:25:00-04:00</lastmod>
   </url><url>
     <loc>https://blog.dougcuff.name/tags/non-writers/</loc>
@@ -43,15 +55,6 @@
   </url><url>
     <loc>https://blog.dougcuff.name/tags/samples/</loc>
     <lastmod>2024-04-07T10:25:00-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.dougcuff.name/tags/hugo/</loc>
-    <lastmod>2024-04-04T10:56:15-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.dougcuff.name/tags/jekyll/</loc>
-    <lastmod>2024-04-04T10:56:15-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.dougcuff.name/categories/personal/</loc>
-    <lastmod>2024-04-04T10:56:15-04:00</lastmod>
   </url><url>
     <loc>https://blog.dougcuff.name/posts/2024-03-02-absence/</loc>
     <lastmod>2024-04-04T10:56:15-04:00</lastmod>
