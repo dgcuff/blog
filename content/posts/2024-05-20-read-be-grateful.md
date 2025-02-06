@@ -21,7 +21,7 @@ Today, at least, that wasn't enough for my conscience. I tried to think of reaso
 - Thank you for letting the book go so that I could read it.
 - Thank you for making your markings in pencil so that I could remove them. You didn't use any highlighting markers or pens, just pencil.
 - Thank you for valuing the printed word and for being a reader.
-- Thank you joining with me in knowing that short books can contain considerable value information.
+- Thank you joining with me in knowing that short books can contain considerable valuable information.
 
 My day job as a technical writer has not, so far, included a lot of time when I remember to be grateful to the reader. I'll try to do better. And I'd enjoy hearing you reasons for gratitude as both a reader and a writer.
 
